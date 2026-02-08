@@ -1,0 +1,15 @@
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\bin\Debug\net10.0\00-common-csharp.exe
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\bin\Debug\net10.0\00-common-csharp.deps.json
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\bin\Debug\net10.0\00-common-csharp.runtimeconfig.json
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\bin\Debug\net10.0\00-common-csharp.dll
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\bin\Debug\net10.0\00-common-csharp.pdb
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.AssemblyInfoInputs.cache
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.AssemblyInfo.cs
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.csproj.CoreCompileInputs.cache
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.sourcelink.json
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.dll
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\refint\00-common-csharp.dll
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.pdb
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\00-common-csharp.genruntimeconfig.cache
+C:\Users\theer\projects\game-programming-patterns-practice\00-common-csharp\obj\Debug\net10.0\ref\00-common-csharp.dll
